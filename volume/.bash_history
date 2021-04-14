@@ -6,3 +6,5 @@ fish
 nano
 less
 exit
+fish
+exit
